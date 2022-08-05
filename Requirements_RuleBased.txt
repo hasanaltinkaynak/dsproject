@@ -1,0 +1,7 @@
+boto3
+botocore
+Flask
+Flask-Cors
+mysql-connector
+python-dateutil
+s3transfer
